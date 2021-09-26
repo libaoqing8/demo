@@ -1,8 +1,5 @@
 #! /bin/bash
 echo '1'
-echo $USER
 echo '2'
-
-
-echo '5'
-echo '6'
+echo '3'
+echo '4'
